@@ -114,7 +114,7 @@ App.tsx (Main Component)
 ### Installation
 \`\`\`bash
 # Clone the repository
-git clone [your-repo-url]
+git clone https://github.com/lahbibsemlali/rem-waste-management-assignment.git
 cd skip-selection-app
 
 # Install dependencies
